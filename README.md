@@ -1,4 +1,4 @@
-# Bogdan mireanu :computer: :rocket:
+# Bogdan Mireanu :computer: :rocket:
 
 ### Full Stack Engineer from Braşov, Romania :world_map: Cognizant | Ex-Endava 
 
