@@ -13,22 +13,21 @@ With a deep passion for building and scaling digital experiences, I've navigated
 - **Currently Exploring** 
 - **Previously enhancing:
 - **Crafting code for:
-- **Skill Set:** JavaScript, NodeJS, React, HTML5, CSS3.
+- **Skill Set:** JavaScript, Typescript, NodeJS, React, NextJS, HTML5, CSS3.
 - **Fun Fact:** Transitioned from ecommerce product manager to full stack hero! 🦸
 
 🛠️ **What I'm Passionate About:**
 
 - Creating seamless user experiences and robust backend solutions.
-- Leveraging my marketing background to drive user engagement and optimize interaction.
+- Leveraging my project management and marketing background to drive user engagement and optimize interaction.
 - Continuous learning and staying ahead of the tech curve.
 
 🌱 **On a Personal Note:**
 
-- Founded my own marketing consultancy with my best friends — combining our powers for good!
-- Sold a thriving personal development blog, highlighting my journey from content creator to code creator.
+- Founded my own ecommerce business 
 - I’m always open to discussing tech, marketing strategies, or the latest in digital innovations.
 
-🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/nechitagabriel)**
+🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/bogdan-dumitru-mireanu-32b63114)**
 
 ---
 
